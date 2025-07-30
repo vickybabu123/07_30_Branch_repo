@@ -1,0 +1,3 @@
+../source/Rec_frame.c:35:6:recent_drug_Frame	16	static
+../source/Rec_frame.c:49:6:recent_opt_Frame	64	static
+../source/Rec_frame.c:96:6:recent_cursor	64	static

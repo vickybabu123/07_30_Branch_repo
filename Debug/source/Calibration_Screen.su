@@ -1,0 +1,8 @@
+../source/Calibration_Screen.c:25:6:Zero_PSI_Calibration	32	static
+../source/Calibration_Screen.c:64:6:Warning_Frame	32	static
+../source/Calibration_Screen.c:391:6:edit_split_frame	32	static
+../source/Calibration_Screen.c:488:6:Digit_Spiliting1	48	static
+../source/Calibration_Screen.c:555:6:edit_option	64	static
+../source/Calibration_Screen.c:124:9:edit_screen	64	static
+../source/Calibration_Screen.c:781:6:edit_option_frame	64	static
+../source/Calibration_Screen.c:615:9:edit_screen_Time	72	static

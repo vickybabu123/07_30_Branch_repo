@@ -1,0 +1,5 @@
+../source/custom_drug_list.c:311:10:custom_set	0	static
+../source/custom_drug_list.c:326:6:custom_list_option_scroll	64	static
+../source/custom_drug_list.c:372:6:custom_drug_Frame	16	static
+../source/custom_drug_list.c:387:6:custom_drug_List_option	64	static
+../source/custom_drug_list.c:50:10:custom_drug_List	72	static

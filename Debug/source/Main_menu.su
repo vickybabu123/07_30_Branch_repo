@@ -1,0 +1,6 @@
+../source/Main_menu.c:106:6:layout	16	static
+../source/Main_menu.c:341:6:Main_Menu_Frame	16	static
+../source/Main_menu.c:355:6:Main_Menu_opt_Frame	56	static
+../source/Main_menu.c:390:6:Menu_cursor	56	static
+../source/Main_menu.c:432:6:menu_fun	64	static
+../source/Main_menu.c:117:6:Main_Menu_Screen	64	static

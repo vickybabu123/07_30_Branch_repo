@@ -1,0 +1,6 @@
+../source/USART.c:40:6:UART7_init	16	static
+../source/USART.c:113:6:txdata_transfer	0	static
+../source/USART.c:129:6:uart_string_transmit	0	static
+../source/USART.c:138:6:FLEXCOMM7_IRQHandler	4	static
+../source/USART.c:167:6:UART_req	0	static
+../source/USART.c:220:6:uart_frame_func	24	static

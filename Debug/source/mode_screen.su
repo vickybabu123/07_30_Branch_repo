@@ -1,0 +1,9 @@
+../source/mode_screen.c:257:6:infuse_mode_frame	16	static
+../source/mode_screen.c:262:6:infuse_mode_opt_frame	56	static
+../source/mode_screen.c:295:6:infuse_mode_curser	56	static
+../source/mode_screen.c:55:9:infusion_mode_screen	48	static
+../source/mode_screen.c:330:7:read_last_data	16	static
+../source/mode_screen.c:392:7:write_current_data	16	static
+../source/mode_screen.c:537:6:R_L_button	24	static
+../source/mode_screen.c:501:6:previous_data_frame	32	static
+../source/mode_screen.c:427:10:previous_data	24	static

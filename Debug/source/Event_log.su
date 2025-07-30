@@ -1,0 +1,7 @@
+../source/Event_log.c:147:6:event_eeprom_write	16	static
+../source/Event_log.c:94:6:event_no_update	40	static
+../source/Event_log.c:162:6:event_eeprom_read	40	static
+../source/Event_log.c:180:6:event_filter	48	static
+../source/Event_log.c:665:6:event_info_display_2	32	static
+../source/Event_log.c:427:6:event_info_display	72	static
+../source/Event_log.c:209:9:event_display	56	static

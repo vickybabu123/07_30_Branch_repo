@@ -1,0 +1,5 @@
+../source/Fav_drug_list.c:41:9:favourite_func	64	static
+../source/Fav_drug_list.c:271:6:favourite_functionality	24	static
+../source/Fav_drug_list.c:327:6:fav_eeprom_write	16	static
+../source/Fav_drug_list.c:346:6:fav_eeprom_read	24	static
+../source/Fav_drug_list.c:378:6:fav_drug_fb_load	0	static

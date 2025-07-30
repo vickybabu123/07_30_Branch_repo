@@ -1,0 +1,17 @@
+../source/SD_Calib_frames.c:69:6:SD_layout	16	static
+../source/SD_Calib_frames.c:81:9:syr_place_screen	24	static
+../source/SD_Calib_frames.c:126:6:min_max_val_header_footer	24	static
+../source/SD_Calib_frames.c:140:6:syringe_adc_val	40	static
+../source/SD_Calib_frames.c:172:6:pop_up_screen	24	static
+../source/SD_Calib_frames.c:184:6:pop_up_erase	24	static
+../source/SD_Calib_frames.c:194:6:syringe_selection_screen	16	static
+../source/SD_Calib_frames.c:199:6:frames_syringe_option	48	static
+../source/SD_Calib_frames.c:255:6:sd_cursor_sel	56	static
+../source/SD_Calib_frames.c:301:6:pull_in_frame	32	static
+../source/SD_Calib_frames.c:321:6:pullin_popup	24	static
+../source/SD_Calib_frames.c:332:6:pull_out_frame	32	static
+../source/SD_Calib_frames.c:356:6:pull_out_popup	24	static
+../source/SD_Calib_frames.c:367:6:calib_all_frame	24	static
+../source/SD_Calib_frames.c:394:6:calibrate_popup	24	static
+../source/SD_Calib_frames.c:406:6:calibrate_popup_erase	24	static
+../source/SD_Calib_frames.c:411:6:minval_adc_option_screen	48	static

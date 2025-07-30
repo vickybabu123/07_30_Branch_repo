@@ -1,0 +1,5 @@
+../source/patient_para_sett.c:208:6:pat_para_cursor	56	static
+../source/patient_para_sett.c:244:6:pat_para_layout	16	static
+../source/patient_para_sett.c:253:6:pat_para_Frame	16	static
+../source/patient_para_sett.c:269:6:pat_para_opt_Frame	56	static
+../source/patient_para_sett.c:32:9:para_setting_screen	48	static

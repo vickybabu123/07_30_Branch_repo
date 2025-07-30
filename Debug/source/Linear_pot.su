@@ -1,0 +1,10 @@
+../source/Linear_pot.c:64:7:syringe_nearempty_calculation	56	static
+../source/Linear_pot.c:85:6:display_funtion	0	static
+../source/Linear_pot.c:121:6:motor_stop	0	static
+../source/Linear_pot.c:143:6:read_eeprom_all_sizsyr	4	static
+../source/Linear_pot.c:159:6:syringe_end_check	8	static
+../source/Linear_pot.c:212:6:near_empty_check	0	static
+../source/Linear_pot.c:376:6:syringe_live_status	96	static
+../source/Linear_pot.c:447:6:syringe_position_check	16	static
+../source/Linear_pot.c:466:10:LIN_POT_sample	12	static
+../source/Linear_pot.c:278:7:remaining_volume_in_syringe	48	static

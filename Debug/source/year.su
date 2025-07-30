@@ -1,0 +1,4 @@
+../source/year.c:50:6:decimal_split_frame	24	static
+../source/year.c:74:6:decimal_Digit_Spiliting	40	static
+../source/year.c:111:6:decimal_option_scroll	64	static
+../source/year.c:165:6:decimal_screen	72	static

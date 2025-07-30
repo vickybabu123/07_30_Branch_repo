@@ -1,0 +1,5 @@
+../source/Brand.c:104:10:fixed_value_Brand	0	static
+../source/Brand.c:436:10:brand_set	0	static
+../source/Brand.c:450:6:brand__drug_split_screen	16	static
+../source/Brand.c:462:9:favourite_Brand_functionality	24	static
+../source/Brand.c:112:9:Brand_List	64	static

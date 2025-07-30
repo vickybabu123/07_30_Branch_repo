@@ -1,0 +1,4 @@
+../source/Bolus_Calculate..c:67:6:auto_bolus_stop	16	static
+../source/Bolus_Calculate..c:82:6:bolus	8	static
+../source/Bolus_Calculate..c:109:6:bolus_mode_stop	16	static
+../source/Bolus_Calculate..c:138:6:bolus_to_normal_run	0	static

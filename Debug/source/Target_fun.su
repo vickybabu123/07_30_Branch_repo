@@ -1,0 +1,8 @@
+../source/Target_fun.c:387:6:Target_mode_frame	16	static
+../source/Target_fun.c:401:6:Target_mode_opt_Frame	88	static
+../source/Target_fun.c:470:6:Target_mode_cursor	88	static
+../source/Target_fun.c:581:10:flowrate_cal	8	static
+../source/Target_fun.c:601:10:time_cal	24	static
+../source/Target_fun.c:539:9:VTBI_check	24	static
+../source/Target_fun.c:56:9:Target_mode_setting	72	static
+../source/Target_fun.c:626:10:volume_cal	8	static

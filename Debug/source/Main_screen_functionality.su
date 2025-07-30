@@ -1,0 +1,15 @@
+../source/Main_screen_functionality.c:768:9:key_main_screen	24	static
+../source/Main_screen_functionality.c:985:9:key_main_screen_VTBI	24	static
+../source/Main_screen_functionality.c:1162:9:key_fun_doserate_mode	32	static
+../source/Main_screen_functionality.c:1321:6:key_fun_ramp_mode	24	static
+../source/Main_screen_functionality.c:1515:6:auto_keylock	16	static
+../source/Main_screen_functionality.c:1558:6:Disc_failure_condition	16	static
+../source/Main_screen_functionality.c:1598:6:pressure_display	48	static
+../source/Main_screen_functionality.c:1641:9:Key_functionality	40	static
+../source/Main_screen_functionality.c:1912:6:MFB_Reset_data	0	static
+../source/Main_screen_functionality.c:1929:6:LED_PixelColor	4	static
+../source/Main_screen_functionality.c:1935:6:Alarm_LED	32	static
+../source/Main_screen_functionality.c:1955:6:Calibration_error_condition	8	static
+../source/Main_screen_functionality.c:1970:6:key_alarm	0	static
+../source/Main_screen_functionality.c:2004:6:warning_check_fun	48	static
+../source/Main_screen_functionality.c:229:9:Home_screen_functionality	48	static

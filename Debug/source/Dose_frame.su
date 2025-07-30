@@ -1,0 +1,9 @@
+../source/Dose_frame.c:55:6:drug_unit_Frame	16	static
+../source/Dose_frame.c:68:6:drug_unit_opt_Frame	48	static
+../source/Dose_frame.c:108:6:drug_unit_cursor	56	static
+../source/Dose_frame.c:157:6:dose_unit_parameter_Frame	16	static
+../source/Dose_frame.c:171:6:dose_unit_parameter_opt_Frame	56	static
+../source/Dose_frame.c:208:6:dose_unit_cursor	48	static
+../source/Dose_frame.c:251:6:dosage_overview_parameter_Frame	32	static
+../source/Dose_frame.c:299:6:dosage_parameter_opt_Frame	64	static
+../source/Dose_frame.c:414:6:dosage_overview_cursor	64	static

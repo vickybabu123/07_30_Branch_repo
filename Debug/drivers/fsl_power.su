@@ -1,0 +1,13 @@
+../drivers/fsl_power.c:355:13:POWER_EnterLowPower	16	static
+../drivers/fsl_power.c:1469:13:lowpower_set_voltage_for_process	0	static
+../drivers/fsl_power.c:392:6:POWER_CycleCpuAndFlash	0	static
+../drivers/fsl_power.c:401:6:POWER_EnterDeepSleep	88	static
+../drivers/fsl_power.c:493:6:POWER_EnterPowerDown	176	static
+../drivers/fsl_power.c:673:6:POWER_EnterDeepPowerDown	96	static
+../drivers/fsl_power.c:770:6:POWER_EnterSleep	0	static
+../drivers/fsl_power.c:1552:6:POWER_SetVoltageForFreq	0	static
+../drivers/fsl_power.c:1577:6:POWER_Xtal16mhzCapabankTrim	20	static
+../drivers/fsl_power.c:1642:6:POWER_Xtal32khzCapabankTrim	16	static
+../drivers/fsl_power.c:1699:6:POWER_SetXtal16mhzLdo	0	static
+../drivers/fsl_power.c:1740:6:POWER_SetBodVbatLevel	8	static
+../drivers/fsl_power.c:1814:6:POWER_GetWakeUpCause	12	static

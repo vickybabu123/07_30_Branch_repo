@@ -1,0 +1,9 @@
+../source/Boot_up.c:123:6:Boot_up	8	static
+../source/Boot_up.c:163:6:progress_bar	48	static
+../source/Boot_up.c:193:6:shutting_down	32	static
+../source/Boot_up.c:361:6:EEPROM_default_write	32	static
+../source/Boot_up.c:508:6:EEPROM_value_read	40	static
+../source/Boot_up.c:776:6:Complete_Reset	32	static
+../source/Boot_up.c:904:6:akas_logo	48	static
+../source/Boot_up.c:916:6:loading_Animation	112	static
+../source/Boot_up.c:221:6:self_test_process	32	static

@@ -1,0 +1,8 @@
+../source/Events_log_frames.c:123:6:events_split_screen	24	static
+../source/Events_log_frames.c:127:6:split_screen_info	48	static
+../source/Events_log_frames.c:148:6:Event_update_1	16	static
+../source/Events_log_frames.c:188:6:events_option_frame1	88	static
+../source/Events_log_frames.c:237:6:event_info_option_frame	64	static
+../source/Events_log_frames.c:276:6:events_option_scroll	80	static
+../source/Events_log_frames.c:339:6:events_info_scroll	56	static
+../source/Events_log_frames.c:391:6:Event_update_1_option_frame	72	static

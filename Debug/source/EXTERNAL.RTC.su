@@ -1,0 +1,5 @@
+../source/EXTERNAL.RTC.c:76:6:i2c_start	0	static
+../source/EXTERNAL.RTC.c:96:6:i2c_Stop	0	static
+../source/EXTERNAL.RTC.c:112:10:RTC_datawrite	64	static
+../source/EXTERNAL.RTC.c:201:10:RTC_dataread	48	static
+../source/EXTERNAL.RTC.c:316:6:Enable_TrickleCharge	0	static

@@ -1,0 +1,9 @@
+../source/Drug_category.c:291:6:category_layout	16	static
+../source/Drug_category.c:300:6:category_Frame	16	static
+../source/Drug_category.c:305:6:category_opt_Frame	56	static
+../source/Drug_category.c:334:6:category_cursor	56	static
+../source/Drug_category.c:583:6:category_list_Frame	16	static
+../source/Drug_category.c:588:6:category_opt_list_Frame	72	static
+../source/Drug_category.c:638:6:category_list_cursor	72	static
+../source/Drug_category.c:379:9:category_list_fun	72	static
+../source/Drug_category.c:60:9:category_screen	48	static

@@ -1,0 +1,11 @@
+../source/standby_fun.c:212:6:standby_Frame	16	static
+../source/standby_fun.c:218:6:standby_Opt_Frame	24	static
+../source/standby_fun.c:247:6:standby_subsetting	56	static
+../source/standby_fun.c:62:6:standby_fun	56	static
+../source/standby_fun.c:483:6:standby_logo	32	static
+../source/standby_fun.c:420:6:standby_frame	24	static
+../source/standby_fun.c:445:6:standby_cursor	24	static
+../source/standby_fun.c:589:6:standby_popup	32	static
+../source/standby_fun.c:607:6:Standby_Time_disp	72	static
+../source/standby_fun.c:493:9:standby_time_screen	40	static
+../source/standby_fun.c:295:10:standby_mode_function	48	static

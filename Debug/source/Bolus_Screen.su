@@ -1,0 +1,15 @@
+../source/Bolus_Screen.c:765:6:Auto_bolus_timedisplay.part.0	56	static
+../source/Bolus_Screen.c:70:6:pop_up_info_frame	32	static
+../source/Bolus_Screen.c:157:6:bolus_frame	24	static
+../source/Bolus_Screen.c:487:6:bolus_layout	0	static
+../source/Bolus_Screen.c:526:6:bolus_popup_frame	0	static
+../source/Bolus_Screen.c:557:9:bolus_popup	0	static
+../source/Bolus_Screen.c:602:6:bolus_FR_spliting	40	static
+../source/Bolus_Screen.c:354:7:bolus_fr_screen	16	static
+../source/Bolus_Screen.c:689:10:Bolus_Limit_syringe	0	static
+../source/Bolus_Screen.c:719:6:Bolus_Running_symbol	112	static
+../source/Bolus_Screen.c:376:6:bolus_run_frame	32	static
+../source/Bolus_Screen.c:175:6:bolus_fun	48	static
+../source/Bolus_Screen.c:427:6:purge_frame	24	static
+../source/Bolus_Screen.c:469:6:purge_bolus	8	static
+../source/Bolus_Screen.c:765:6:Auto_bolus_timedisplay	8	static
