@@ -26,6 +26,7 @@
 #include "RTC.h"
 #include "gcov_support.h"
 //#include "envelop"
+#include "train"
 //#include "gcov-embedded.h"
 
 //#include "libgcov"
