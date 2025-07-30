@@ -4,7 +4,7 @@
 #include "TFT_Commands.h"
 #include "Color.h"
 #include "Driver_Timer.h"
-
+#include "stdint.h'
 volatile uint16_t ADC_result	= 0;
 uint16_t POWER_KEY_VOLTAGE = 0;
 uint16_t RS2_VOLTAGE  = 0;
